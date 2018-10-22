@@ -3,16 +3,16 @@ A python project to scrape the images of 1000 Hyundai i10 car from a website.
 
 Project based on Python 3.6+
 
-External Libraries used are:-
-Pillow,
+External Libraries used are:-<br>
+Pillow,<br>
 Beautiful Soup
 
 Assuming you have your path set up for python
 
-Open the command line and to install the dependencies using pip use the commands:
+Open the command line and to install the dependencies using pip, use the commands: <br>
 
-pip install bs4
-pip install pillow
+pip install bs4 <br>
+pip install pillow <br>
 
 Then to run this project clone this repository, go to the Scrapper folder, open up a terminal there and run the project using the command:
 
